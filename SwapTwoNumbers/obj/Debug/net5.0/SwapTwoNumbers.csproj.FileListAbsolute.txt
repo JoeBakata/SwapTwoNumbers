@@ -1,0 +1,16 @@
+D:\Users\Joseph\source\repos\SwapTwoNumbers\bin\Debug\net5.0\SwapTwoNumbers.exe
+D:\Users\Joseph\source\repos\SwapTwoNumbers\bin\Debug\net5.0\SwapTwoNumbers.deps.json
+D:\Users\Joseph\source\repos\SwapTwoNumbers\bin\Debug\net5.0\SwapTwoNumbers.runtimeconfig.json
+D:\Users\Joseph\source\repos\SwapTwoNumbers\bin\Debug\net5.0\SwapTwoNumbers.runtimeconfig.dev.json
+D:\Users\Joseph\source\repos\SwapTwoNumbers\bin\Debug\net5.0\SwapTwoNumbers.dll
+D:\Users\Joseph\source\repos\SwapTwoNumbers\bin\Debug\net5.0\ref\SwapTwoNumbers.dll
+D:\Users\Joseph\source\repos\SwapTwoNumbers\bin\Debug\net5.0\SwapTwoNumbers.pdb
+D:\Users\Joseph\source\repos\SwapTwoNumbers\obj\Debug\net5.0\SwapTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Joseph\source\repos\SwapTwoNumbers\obj\Debug\net5.0\SwapTwoNumbers.AssemblyInfoInputs.cache
+D:\Users\Joseph\source\repos\SwapTwoNumbers\obj\Debug\net5.0\SwapTwoNumbers.AssemblyInfo.cs
+D:\Users\Joseph\source\repos\SwapTwoNumbers\obj\Debug\net5.0\SwapTwoNumbers.csproj.CoreCompileInputs.cache
+D:\Users\Joseph\source\repos\SwapTwoNumbers\obj\Debug\net5.0\SwapTwoNumbers.dll
+D:\Users\Joseph\source\repos\SwapTwoNumbers\obj\Debug\net5.0\ref\SwapTwoNumbers.dll
+D:\Users\Joseph\source\repos\SwapTwoNumbers\obj\Debug\net5.0\SwapTwoNumbers.pdb
+D:\Users\Joseph\source\repos\SwapTwoNumbers\obj\Debug\net5.0\SwapTwoNumbers.genruntimeconfig.cache
+D:\Users\Joseph\source\repos\SwapTwoNumbers\obj\Debug\net5.0\SwapTwoNumbers.csproj.AssemblyReference.cache
